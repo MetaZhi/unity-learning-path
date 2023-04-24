@@ -276,8 +276,7 @@
 
 #### 🎓教程推荐
 
-- 🆓Unity 游戏框架搭建 决定版（试听） https://learn.u3d.cn/tutorial/framework_design_trail
-- 💰Unity 游戏框架搭建 决定版（598元） https://learn.u3d.cn/tutorial/framework_design
+- 💰Unity 游戏框架搭建 决定版【推荐试看部分】 https://learn.u3d.cn/tutorial/framework_design
 - xLua教程（没找到能入选的教程，可以推荐或自荐给大智 vx：zhz11235）
   -   【版本老旧】Unity2017.2打鱼游戏 https://www.bilibili.com/video/BV1XJ411y7pB/
 

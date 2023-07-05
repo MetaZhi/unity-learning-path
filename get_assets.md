@@ -66,11 +66,12 @@
 
 ## 音效
 
-| 网站          | 地址                               | 价格     |
-| ------------- | ---------------------------------- | -------- |
-| SoundsCrate   | https://soundscrate.com/           |          |
-| freeSFX misuc | https://freesfx.co.uk/Default.aspx | 全免费   |
-| 100Audio      | https://100audio.com/              | 收费较高 |
+| 网站                 | 地址                               | 价格     |
+| -------------------- | ---------------------------------- | -------- |
+| ✨淘声网 声音搜索引擎 | https://www.tosound.com/           | 免费     |
+| SoundsCrate          | https://soundscrate.com/           |          |
+| freeSFX misuc        | https://freesfx.co.uk/Default.aspx | 全免费   |
+| 100Audio             | https://100audio.com/              | 收费较高 |
 
 
 

@@ -32,8 +32,8 @@
 
 #### 🎓教程推荐
 
-- 🆓3D游戏：Roll a ball【英音中字】（https://www.bilibili.com/video/BV1jK4y1G7g4/）
-- 🆓2D游戏：Ping Pong【图文】（https://blog.csdn.net/fujian87232/article/details/115321853）
+- 🆓3D游戏：Roll a ball【英音中字】（https://www.bilibili.com/video/BV1jK4y1G7g4/ ）
+- 🆓2D游戏：Ping Pong【图文】（https://blog.csdn.net/fujian87232/article/details/115321853 ）
 
 #### 📝升级自测（LV0 ↗️ LV1）
 
@@ -59,7 +59,7 @@
 
 #### 🎓教程推荐
 
-- 🆓C# （https://learn.u3d.cn/tutorial/beginner-gameplay-scripting）
+- 🆓C# （https://learn.u3d.cn/tutorial/beginner-gameplay-scripting ）
 
 #### 📝升级自测（LV1 ↗️ LV2）
 
@@ -141,8 +141,8 @@
 
 #### 🎓教程推荐
 
-- 🆓盒子跑酷（英文，免费） （https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6）
-- 🆓2D Flappy Bird（https://www.bilibili.com/video/BV1jK411V7V7/）
+- 🆓盒子跑酷（英文，免费） （https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6 ）
+- 🆓2D Flappy Bird（https://www.bilibili.com/video/BV1jK411V7V7/ ）
 
 #### 📝升级自测（LV2 ↗️ LV3）
 
